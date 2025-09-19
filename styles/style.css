@@ -154,6 +154,14 @@ body {
     .apresentacao__conteudo{
         width: auto;
     }
-
+.apresentacao__links__botao {
+        width: 60%  ; }
     
 }
+@media (min-width:1024px) {
+.apresentacao__links__botao {
+        width: 80%  ; }
+    
+}
+
+
